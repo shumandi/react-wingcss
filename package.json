@@ -1,0 +1,21 @@
+{
+  "name": "react-wingcss",
+  "version": "0.1.0",
+  "description": "简单的wing react实现",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shumandi/react-wingcss.git"
+  },
+  "keywords": [
+    "react",
+    "wing",
+    "css"
+  ],
+  "author": "shumandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shumandi/react-wingcss/issues"
+  },
+  "homepage": "https://github.com/shumandi/react-wingcss#readme",
+}
